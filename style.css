@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins';
+}
+
+header > div {
+    padding: 0 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+  }
+.logo {
+      width: 50px;
+   margin-right: 1rem;
+   padding-top:5px;
+}
+.magnifying-glass {
+       width: 20px;
+   margin-right: auto;
+   padding-top:5px;
+  
+}
+.search-box {
+    float: none;
+    display: block;
+    text-align: left;
+    border: none;
+}
+  nav {
+    width: 600px;
+  }
+nav bar {
+  padding: 20px 0;
+  
+}
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top:0px;
+  }
+  
+  nav ul a {
+    text-decoration: none;
+    color: black;
+    justify-content: space-between;
+  padding-left:25px;
+  padding-right:25px;
+  }
+  
+  .blackHeart {
+    width: 20px;
+    margin-right: 1rem;
+  }
+  .npm-span {
+    margin-right: 95rem;
+  }
+
+
+  h1 {
+   font-size: 4em;
+   text-align: center;
+  }
+  
+  h3 {
+    font-weight: 100;
+  }
+h4 {
+  font-size: 1em;
+  font-weight: 800;
+  color:red;
+  letter-spacing: -1px;
+}
+h4 p {
+  text-align:center;
+}
+#section-txt {
+    width: 60%;
+  margin: 10px auto;
+  text-align:center;
+  background-color:
+}
+.buttons {
+  display: inline;
+  width: 50px;
+  padding-left: 43%;
+  margin-bottom:10px;
+}
+.j4f-btn {
+  background-color: white;
+  color: black;
+  font-size: 1em;
+  letter-spacing: none;
+  text-align: center;
+  text-decoration: none;
+  padding: 10px 30px;
+}
+.see-plans-btn {
+    background-color: red;
+  color: white;
+  font-size: 1em;
+  letter-spacing: none;
+  text-align: center;
+  text-decoration: none;
+  padding: 10px 30px;
+}
+  
+.triangle-logo {
+  width: 150px;
+   margin: auto;
+  padding: 10px;
+}
+#triangle-h3 {
+  text-align: center;
+  background-color: yellow;
+    padding: 0 0;
+   width: 500px;
+  margin: auto;
+}
+.triangle-txt {
+  font-size: 0.5em;
+  text-align: center;
+ width: 350px;
+  margin-top 5px;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+.service-box {
+  font-size: .5em;
+  margin: 50px 5% 0 5%;
+  padding: 20px;
+  width: 40%;
+  display: inline-block;
+}
+.bottom-table {
+  list-style: none;
+    display: inline-block;
+    justify-content: space-between;
+    align-items: center;
+    padding-left:50px;
+}
